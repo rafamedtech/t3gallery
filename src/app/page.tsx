@@ -21,7 +21,7 @@ async function Images() {
 export default async function HomePage() {
   // console.log(images);
   return (
-    <main className="">
+    <main>
       <SignedOut>
         <div className="h-full w-full pt-8 text-center text-2xl">
           Please sign in above
